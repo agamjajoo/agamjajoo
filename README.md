@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agamjajoo
+- 👋 Hi, I’m @agamjajoo, Agam...
 - 👀 I’m interested in all aspects of non functional testing, enhancing production observability, monitoring and Site reliability Engineering.
 - 🌱 I’m currently learning Python, Morse Code & Guitar
 - 💞️ I’m looking to collaborate on performance engineering
